@@ -1,5 +1,6 @@
 import torch
 import torchvision
+import os
 
 dummy_input = torch.randn(1, 3, 224, 224)
 model = torchvision.models.alexnet(pretrained=True)

@@ -2,3 +2,4 @@
 node_modules
 model.onnx
 dist/
+src/assets/model.onnx
